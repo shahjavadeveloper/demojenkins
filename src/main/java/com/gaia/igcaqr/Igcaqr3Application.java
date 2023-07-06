@@ -8,6 +8,7 @@ public class Igcaqr3Application {
 
 	public static void main(String[] args) {
 		System.out.println("applictaion started.....");
+		System.out.println("applictaion started.....");
 		SpringApplication.run(Igcaqr3Application.class, args);
 	}
 
